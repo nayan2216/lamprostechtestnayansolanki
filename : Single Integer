@@ -1,0 +1,13 @@
+# single integer 
+# to find a uniqe integeer in thelist 
+ 
+num = [1,2,2,3,2,4]
+
+
+#print original list 
+print("this is your poriginal list ", num)
+
+# for loop to find a singl number in the list 
+# then you can find the single element int he list
+# if else lopp to use count repeated number and yiu use pop to remive repeated number in the list 
+# and append the single nnumber 
